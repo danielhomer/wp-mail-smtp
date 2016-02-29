@@ -1,0 +1,16 @@
+{
+	"name"       : "danielhomer/wp-mail-smtp",
+	"description": "This plugin reconfigures the wp_mail() function to use SMTP instead of mail() and creates an options page that allows you to specify various options.",
+	"homepage"   : "https://github.com/danielhomer/wp-mail-smtp",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Callum Macdonald",
+			"homepage": "http://www.callum-macdonald.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
